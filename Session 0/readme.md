@@ -1,0 +1,1 @@
+This folder contains resources related to content delivered in Session 0 of CFI Summer School, 2022. 
