@@ -5,3 +5,5 @@ Slides used during the session: https://docs.google.com/presentation/d/1fSLa2oyI
 Recording of the session: https://drive.google.com/file/d/1RMBrZDL75ZRnLeoV9UPGd-HJbzsZDas_/view?ts=62c6a9e7
 
 Codepen code: https://codepen.io/ShivanshIITM/pen/XWEXxVw
+
+Do check out the extended learning resources document which is given in the readme file in parent folder. 
