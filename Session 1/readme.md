@@ -7,3 +7,6 @@ Recording of the session: https://drive.google.com/file/d/1RMBrZDL75ZRnLeoV9UPGd
 Codepen code: https://codepen.io/ShivanshIITM/pen/XWEXxVw
 
 Do check out the extended learning resources document which is given in the readme file in parent folder. 
+
+Task for the session:
+The task would be to clone the UI of a sample google form, screenshot of which can be found here (google_form_pic.jpg) using HTML and CSS. The next task will be in such a way that you'll be building over this webpage. 
