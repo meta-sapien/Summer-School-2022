@@ -7,3 +7,6 @@ Recording of the session: https://drive.google.com/file/d/1UiAOZFk2wQPF0FyeBEjvg
 Link to code repo: https://github.com/WebOps-and-Blockchain-Club/Authentication-using-JWT
 
 Do check out the extended learning resources document which is given in the readme file in parent folder. 
+
+
+Note: While using the code in this folder, do not forget to run the command 'npm install'
